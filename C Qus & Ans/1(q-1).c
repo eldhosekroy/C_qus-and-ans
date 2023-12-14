@@ -1,6 +1,4 @@
-
 //To find b^2-4ac
-
 
 #include<stdio.h>
 int main(){
